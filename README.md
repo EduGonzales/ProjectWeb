@@ -2,12 +2,12 @@
 
 #Instalación de mi proyecto.
 
-#Primero debemos instalar anaconda(https://www.anaconda.com/) en Linux.
-#Ejecutamos el sh y después creamos un entorno virtual: conda install -n nombre_del_entorno -c anaconda python.
-#Nota: Si quisiera una versión de python en específico : python=3.9.
-#Para acceder al entorno creado: conda activate nombre_del_entorno.
-#Para salir del entorno: conda deactivate nombre_del_entorno.
-#Ahora, una vez en el entorno, instalaremos:
+1. Primero debemos instalar anaconda(https://www.anaconda.com/) en Linux.
+2. Ejecutamos el sh y después creamos un entorno virtual: conda install -n nombre_del_entorno -c anaconda python.
+3. Nota: Si quisiera una versión de python en específico : python=3.9.
+4. Para acceder al entorno creado: conda activate nombre_del_entorno.
+5. Para salir del entorno: conda deactivate nombre_del_entorno.
+6. Ahora, una vez en el entorno, instalaremos:
 #instalar pip en anaconda: https://anaconda.org/anaconda/pip: conda install -c anaconda pip.
 #instalar django :pip install Django==4.0.4
 #instalar DB Browser for SQLITE: para poder ver bien las bases de datos : https://sqlitebrowser.org/dl/
